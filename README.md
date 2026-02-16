@@ -1,7 +1,7 @@
 # 💻 Seminários III — Projeto Extensionista
 
 > **Disciplina:** Seminários III — PUC Minas  
-> **Professor Responsável:** Harison  
+> **Professor Responsável:** Harison Herman Silva  
 > **Formato:** Sala de aula invertida (protagonismo dos alunos)
 
 ---
@@ -9,7 +9,7 @@
 ## 👥 Identificação do Grupo
 
 | Campo | Informação |
-|-------|-----------|
+| ------- | ----------- |
 | **Nome do Grupo** | *(preencher)* |
 | **Integrantes** | *(listar todos)* |
 | **E-mail de contato** | *(preencher)* |
@@ -19,40 +19,39 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
-*(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)*
+(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-```
+```cmd
 ├── README.md                              ← Este arquivo
 ├── docs/
-│   ├── S3-01-termo-autorizacao.md         ← Termo de autorização e agendamento
-│   ├── S3-02-documento-requisitos.md      ← Documento de requisitos do software
-│   ├── S3-03-plano-desenvolvimento.md     ← Plano e cronograma de desenvolvimento
-│   ├── S3-04-checklist-logistica.md       ← Checklist de preparação e logística
-│   ├── S3-05-diario-bordo.md             ← Diário de bordo do grupo
-│   └── S3-06-registro-contatos.md         ← Registro de contatos com a comunidade
+│   ├── 01-termo-autorizacao.md         ← Termo de autorização e agendamento
+│   ├── 02-documento-requisitos.md      ← Documento de requisitos do software
+│   ├── 03-plano-desenvolvimento.md     ← Plano e cronograma de desenvolvimento
+│   ├── 04-checklist-logistica.md       ← Checklist de preparação e logística
+│   ├── 05-diario-bordo.md             ← Diário de bordo do grupo
+│   └── 06-registro-contatos.md         ← Registro de contatos com a comunidade
 ├── src/                                   ← Código-fonte da aplicação
 │   └── README.md                          ← Instruções de setup e execução
 ├── evidencias/
 │   ├── fotos/                             ← Fotos da entrega presencial
 │   └── prints/                            ← Prints de tela da aplicação
 └── relatorios/
-    ├── S3-07-relatorio-atividades.md      ← Base para o relatório APC (grupo)
-    └── S3-08-autoavaliacao.md             ← Guia para autoavaliação individual (APC)
+    └── 07-relatorio-atividades.md      ← Base para o relatório APC (grupo)
 ```
 
 ---
 
 ## 📋 Fluxo de Trabalho
 
-1. **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`S3-06`) e preencher o termo (`S3-01`).
-2. **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`S3-02`).
-3. **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`S3-03`) e registrando o progresso (`S3-05`).
+1. **Etapa 1 — Formação e Contato Inicial:** Preencher o `README.md`, contatar a comunidade, levantar demandas (`docs/06-registro-contatos.md`) e preencher o termo (`docs/01-termo-autorizacao.md`).
+2. **Etapa 2 — Requisitos:** Documentar os requisitos do software em contato com a comunidade (`docs/02-documento-requisitos.md`).
+3. **Etapa 3 — Desenvolvimento:** Desenvolver a aplicação (`src/`), seguindo o plano (`docs/03-plano-desenvolvimento.md`) e registrando o progresso (`docs/05-diario-bordo.md`).
 4. **Etapa 4 — Entrega Presencial:** Entregar o software presencialmente à comunidade. Registrar fotos em `evidencias/fotos/`.
-5. **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base `S3-07` e `S3-08`.
+5. **Etapa 5 — Relatórios:** Preencher os relatórios no APC usando como base no `relatorios/07-relatorio-atividades.md`.
 
 ---
 
